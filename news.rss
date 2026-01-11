@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>ParadoxLauncher News</title>
+    <link>https://phasedev-paradox.github.io/launcher</link>
+    <description>Official ParadoxLauncher updates</description>
+    <language>en-us</language>
+
+    <item>
+      <title>🚀 ParadoxLauncher released</title>
+      <link>https://phasedev-paradox.github.io/launcher</link>
+      <description>
+        The first public version of ParadoxLauncher is now available.
+      </description>
+      <pubDate>Mon, 13 Jan 2026 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>🎮 MineKeep support added</title>
+      <link>https://phasedev-paradox.github.io/launcher</link>
+      <description>
+        Auto-connect and Fabric support are now available.
+      </description>
+      <pubDate>Mon, 13 Jan 2026 13:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
