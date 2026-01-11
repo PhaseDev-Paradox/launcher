@@ -1,6 +1,1 @@
-Status = 200
-
---404 = Make a sorry Text that say wopes The Server Is Not found
---200 = Good
---136 = A text Hey The Luncher Is outDate Take That Free Cookie :)
---452 = make a text Luncher Is Work
+200
